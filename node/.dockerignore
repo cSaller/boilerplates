@@ -1,0 +1,11 @@
+.git
+.dockerignore
+.env*
+.vscode
+build
+node_modules
+Dockerfile
+docker-compose*
+nodemon.json
+README.md
+swagger.json
