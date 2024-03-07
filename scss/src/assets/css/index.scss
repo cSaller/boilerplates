@@ -1,0 +1,23 @@
+@import 'variables';
+
+body {
+  background-color: $mainColor;
+  font-family: $font;
+  max-width: $maxWidth;
+  color: white;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+
+  a, h1 {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+.nobreak {
+  white-space: nowrap;
+}
+
+p {
+  margin: 0;
+}
